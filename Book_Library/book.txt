@@ -1,0 +1,31 @@
+Savelev.I.
+Obshiy kurs fiziki
+1987
+Physics
+345
+Tutygin
+inFOrMatiKa
+Computer science
+2016
+145
+Herbert Schildt
+Bazoviy kurs
+abv
+Computer science
+90
+Laphore
+Obyekrno orientovano programmirovanie v c++
+2004
+-computer science
+13
+Amosov
+Skhemotekhnika
+2013
+Microelectronics
+f
+Demidovich
+Sbornik zadach
+1987
+Mathematics
+19
+

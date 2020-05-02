@@ -1,0 +1,80 @@
+Karl Marx
+Das Kapital
+1867
+Sociology
+36
+Nikola Tesla
+My inventions
+1919
+Autobiography
+15
+Fyodor Dosotevskiy
+Prestuplenie i nakazanie
+1876
+Novel
+11
+Lev Tolstoy
+Anna Karenina
+1818
+Novel
+10
+Fyodor Dosotoevskiy
+Idiot
+1888
+Novel
+23
+Dan Brown
+Inferno
+2015
+Mystery
+15
+Victor Hugo
+Les contemplations
+1834
+Poetry
+12
+Dan Brown
+Origin
+2017
+Mystery
+3
+Charles Dickens
+Oliver Twist
+1718
+Social
+5
+Victor Hugo
+Les miserables
+1862
+Novel
+7
+Aleksander Pushkin
+Eugene Onegin
+1832
+Novel
+4
+Lev Tolstoy
+Voyna i mir
+1867
+Novel
+45
+Fyodor Dostoevskiy
+Bratya Karamazovi
+1877
+Novel
+21
+Nikolay Gogol
+Mertvie dushi
+1888
+Novel
+6
+Anaton Chekhov
+Dyadya Vanya
+1899
+Novel
+23
+Boris Pasternik
+Doktor Zhivago
+1917
+Comedy
+19

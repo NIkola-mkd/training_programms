@@ -1,0 +1,30 @@
+
+Table ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                 Author's name                                             Title   Year                    Genre Amount
+                     Dan Brown                                            Origin   2017                  Mystery      3
+            Aleksander Pushkin                                     Eugene Onegin   1832                    Novel      4
+               Charles Dickens                                      Oliver Twist   1718                   Social      5
+                 Nikolay Gogol                                     Mertvie dushi   1888                    Novel      6
+                   Victor Hugo                                    Les miserables   1862                    Novel      7
+                   Lev Tolstoy                                     Anna Karenina   1818                    Novel     10
+            Fyodor Dosotevskiy                          Prestuplenie i nakazanie   1876                    Novel     11
+                   Victor Hugo                                Les contemplations   1834                   Poetry     12
+                  Nikola Tesla                                     My inventions   1919            Autobiography     15
+                     Dan Brown                                           Inferno   2015                  Mystery     15
+               Boris Pasternik                                    Doktor Zhivago   1917                   Comedy     19
+            Fyodor Dostoevskiy                                 Bratya Karamazovi   1877                    Novel     21
+           Fyodor Dosotoevskiy                                             Idiot   1888                    Novel     23
+                Anaton Chekhov                                      Dyadya Vanya   1899                    Novel     23
+                     Karl Marx                                       Das Kapital   1867                Sociology     36
+                   Lev Tolstoy                                       Voyna i mir   1867                    Novel     45
+
+List _____________________________________________________________________________________________________________________________________________________________________________________________________
+               Genre  Count
+       Autobiography      1
+              Comedy      1
+             Mystery      2
+               Novel      9
+              Poetry      1
+              Social      1
+           Sociology      1
+Maximum object:                    Lev Tolstoy                                       Voyna i mir   1867                    Novel     45
