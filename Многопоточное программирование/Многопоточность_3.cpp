@@ -20,7 +20,7 @@ void doWork(int &a) {
 int main()
 {
     int q = 5;
-    thread t(doWork,std::ref(q));
+    thread t(doWork,std::ref(q));//std::ref-чтобы передат значение по ссылке
    // doWork(q);
    
     
