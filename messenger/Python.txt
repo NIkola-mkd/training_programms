@@ -1,1 +1,3 @@
 created by qt editor
+
+async-client-win.exe (test console for windows OS)
